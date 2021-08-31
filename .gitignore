@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+/G300_Level_Blocking/Library
+/G300_Level_Blocking/temp
