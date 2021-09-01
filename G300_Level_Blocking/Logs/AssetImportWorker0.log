@@ -941,3 +941,4 @@ Received Import Request.
 Start importing Assets/Prefabs/Box.prefab using Guid(45c3abb45347f77439ef2f180243e1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678ab3b2dd733561ab90d2354a211242') in 0.064012 seconds 
   Import took 0.068250 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
