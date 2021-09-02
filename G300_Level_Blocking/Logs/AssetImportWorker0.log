@@ -136,3 +136,20 @@ Received Import Request.
 Start importing Assets/Prefabs/Ball.prefab using Guid(5e99033a049a92c43adda2f12b654f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedb3414323e859a8314d6af93802393') in 0.043180 seconds 
   Import took 0.046809 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 170.209711 seconds.
+  path: Assets/Prefabs/ThinPlatform.prefab
+  artifactKey: Guid(ac8abb13fb37ece4a89c8805f81c96fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ThinPlatform.prefab using Guid(ac8abb13fb37ece4a89c8805f81c96fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c8708d82606de27c5306c851e13b19') in 0.008429 seconds 
+  Import took 0.013318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019862 seconds.
+  path: Assets/Prefabs/ThinPlatform.prefab
+  artifactKey: Guid(ac8abb13fb37ece4a89c8805f81c96fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ThinPlatform.prefab using Guid(ac8abb13fb37ece4a89c8805f81c96fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c8708d82606de27c5306c851e13b19') in 0.007210 seconds 
+  Import took 0.011395 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
